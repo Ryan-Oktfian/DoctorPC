@@ -1,0 +1,29 @@
+.custom-pagination {
+    display: flex;
+    justify-content:end;
+    align-items: center;
+}
+
+.custom-nav-button {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-nav-button::after {
+    font-size: 12px;
+}
+
+.swiper-button-next {
+top: 200px;
+}
+
+.swiper-button-prev {
+top: 200px;
+}

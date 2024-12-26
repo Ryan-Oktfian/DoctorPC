@@ -1,0 +1,10 @@
+PROJECT AKHIR MATA KULIAH PEMROGRAMAN APLIKASI WEB  
+KELOMPOK-2
+
+Anggota Kelompok:
+Naufal Arsapradhana – 225150701111028 [NAU]
+Ryan Nabris Oktfian – 225150701111031 [RYN]
+Halilintar Daiva Dirgantara – 225150707111009 [HAL]
+Arvin Hendro – 225150707111047 [VIN]
+Muhammad Mirza Shah Alam – 225150707111063 [MSA]
+
